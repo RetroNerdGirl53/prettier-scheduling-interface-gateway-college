@@ -1,0 +1,19 @@
+                                        #YOLO Public License (YPL) v0.13.1-tech53(college appropriate version)
+ This software is provided as is and free of charge.  It can be redesigned, redistributed,
+ refrigerated, remade, reheated, and regifted in part or in whole by any person, corporation, rodent, or wet floor sign
+ for fun or profit or things i had to bleep out here because the original license was too inappropriate for college and whatever other professional environment. Marsupials, and all other inanimate objects are prohibited from using this software.
+ In exchange, just give me credit for inspiring you to steal my code like (some random comedian the original license maker thinks is funny?) steals jokes.  I steal a bunch too so you're
+ probably just getting sloppy seconds anyways. Shout out to whatever LLM i used for giving me help via crappy code snippets and explaining libraries/modules/apis/css/whatever technology i didn't know whenever I got stuck.
+
+ Keep in mind I'm not a great dev and don't exactly write properly good code, most of it is procedural and entirely untested. This software is likely buggy as hell 
+ and is provided AS IS with no warranty real, imagined, fabricated, or pulled from a magic hat that this software is 
+ suitable for any purpose, porpise, or tortise, unless it's also a florist. To be honest, you probably should not even use this in any
+ environment you want to have working right.
+
+ In short, you can't sue me if you decide to use this code that I'm putting out there for free and shit goes terribly wrong. 
+I'm just as broke as this code and you'll just be pissing into the wind on that endeavor.  I already warned you that my code is bad.  Read through it and make sure you know what it 
+ does, or have your cousin that took a web design class in high school help you figure out what it does.  
+
+ ...Or just take my word for it and wing it. #YOLO
+
+this license requires you to eat some chocolate, drink some wine, support Ukraine and freeing Palestine, fighting ICE and trump, once per week to use it.  Also eat some pizza or lasagna. Because reasons. If you don't you are in violation of my software license and I'll be really angry and unable to do a damn thing because as i said before I'm broke. But for real, do that stuff because it's the bare minimum for being a not horrible human. And chocolate and wine are good for you.
